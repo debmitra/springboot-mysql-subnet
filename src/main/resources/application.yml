@@ -1,0 +1,6 @@
+server:
+  port: 9077
+
+---
+spring:
+  profiles: cloud
